@@ -1,6 +1,6 @@
 package com.perscholas.java_basics;
 
-public class DoubleDivision {
+public class DoubleDivisionAndCast {
     public static void main(String[] args) {
        double num1 = 3.14;
        double num2 = 1.5;
